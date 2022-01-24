@@ -1,0 +1,37 @@
+c:\users\dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.exe.config
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\Database1.mdf
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\Database1_log.ldf
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.exe
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\NewPOS.pdb
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.Properties.Resources.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.csproj.GenerateResource.Cache
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.exe
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.pdb
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.Form1.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.dll
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.xml
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.ViewProductsForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.LoginForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.RegisterForm.resources
+C:\Users\Dusan\documents\visual studio 2013\Projects\NewPOS\NewPOS\obj\Debug\NewPOS.PayForm.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\NewPOS\bin\Debug\Database1.mdf
+C:\Users\Personal-01\Desktop\Sourcecodester\NewPOS\bin\Debug\Database1_log.ldf
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\bin\Debug\Database1.mdf
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\bin\Debug\Database1_log.ldf
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\bin\Debug\NewPOS.exe.config
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\bin\Debug\NewPOS.exe
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\bin\Debug\NewPOS.pdb
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.csproj.AssemblyReference.cache
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.Form1.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.LoginForm.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.PayForm.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.Properties.Resources.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.RegisterForm.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.ViewProductsForm.resources
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.csproj.GenerateResource.cache
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.csproj.CoreCompileInputs.cache
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.exe
+D:\Fileappan\Amikom\Sem3\Resume\newpos\NewPOS\obj\Debug\NewPOS.pdb
